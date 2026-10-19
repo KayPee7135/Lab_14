@@ -1,6 +1,6 @@
 # Campus Notice Board on Kubernetes - CTE412 Assessed Lab
 
-Student: Ngawang palden (`<sid>` = 136)
+Student: Ngawang palden (`<sid>` = 130)
 
 ## Purpose
 
